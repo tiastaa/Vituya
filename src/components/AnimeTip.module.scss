@@ -1,0 +1,14 @@
+.anime_tip {
+//     z-index: -3;
+// background-color: aqua;
+}
+@media screen and (max-width: 720px) {
+    .anime_tip{
+        height: 0px;
+        width: 0px;
+        div{
+            display: none;
+        }
+    }
+    
+}
